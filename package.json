@@ -1,0 +1,29 @@
+{
+  "name": "web-elvincle",
+  "version": "1.0.0",
+  "description": "Web realizada con Node.js, Yeoman, yo-wordpress y wordpress",
+  "main": "index.js",
+  "dependencies": {
+    "mongodb": "^2.2.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/web-koan/web-elvincle.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Yeoman",
+    "Yeopress",
+    "wordpress"
+  ],
+  "author": "web-koan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/web-koan/web-elvincle/issues"
+  },
+  "homepage": "https://github.com/web-koan/web-elvincle#readme"
+}
